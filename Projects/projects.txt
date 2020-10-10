@@ -1,0 +1,9 @@
+Projects TODO: -
+-------------------------------------------------
+1. Twitter Analysis
+2. Data Analysis Big Mart Sales
+3. Time Series Analysis
+4. NLP
+    Chatbot
+    Twitter Sentiment Analysis
+    Article summarization
