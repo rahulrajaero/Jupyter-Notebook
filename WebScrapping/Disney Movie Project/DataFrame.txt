@@ -1,7 +1,0 @@
-DataFrame
-
-Database1
-Movie Name -- Release Date -- url
-
-Database2 (open Movie Name url and get following)
-Directed by -- Produced by -- Written by -- Based on -- Starring -- Music by -- Production company -- Distributed by -- Running time -- Coutnry -- Language -- Budget -- Box office
