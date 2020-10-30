@@ -13,7 +13,7 @@ In this project we have worked over several technologies to for the different-di
 
 
 
-This Projects taught me several things not  only as a machine learning but more than that side hustle in doing and end-to-end project. Like reading the libraries actual code, writing comments, docs, etc... and more importantly *how to get things done* for example googling technique, reading others comments i.e. communications.
+This Projects taught me several things not  only as a machine learning but more than that side hustle in doing an end-to-end project. Like reading the libraries actual code, writing comments, docs, etc... and more importantly *how to get things done* for example googling technique, reading others comments i.e. communications.
 
 Still a lot to do and learn in this project. Working on the same.
 
