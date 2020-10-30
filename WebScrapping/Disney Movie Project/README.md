@@ -17,8 +17,8 @@ This Projects taught me several things not  only as a machine learning but more 
 
 Still a lot to do and learn in this project. Working on the same.
 
-<br/>
-Final Analysis has been done in ```6.0 ***``` <br/>
+Final Analysis has been done in ```6.0 ***``` 
+
 Next time we will experiments with different-different methods.
 
 
