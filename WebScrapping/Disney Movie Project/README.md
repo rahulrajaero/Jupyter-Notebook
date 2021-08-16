@@ -1,6 +1,6 @@
 ### This is an End-to-End Sentiment Analysis Natural Language Processing Project
 
-This is a project from scratch during my free time where actions from data extraction to model developemnt were perfromed. In this project we have worked over several technologies for the different-different tasks. In one line - Data of Movies were extracted from wiki, then data was strored and managed locally with the help of open-source postgresql, adn ulimately model was built. 
+This is a project done from scratch during my free time where actions from data extraction to model developemnt were perfromed. In this project we have worked over several technologies for the different-different tasks. In one line - Data of Movies were extracted from wiki, then data was strored and managed locally with the help of open-source postgresql, adn ulimately model was built. 
 Here are the steps: - 
 
 * Data Extraction from *wiki* using ```urllib, requests ```  then parsing the html with the help of beautiful ```BeautifulSoup``` library
